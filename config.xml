@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns	= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id			= "com.mwriley.pgbuild.sample"
+	id			= "com.sm.mbspartaaa.sample"
 	version		= "1.0.0">
 
-	<name>PhoneGap Build Sample</name>
+	<name>Mobile Boilerplate Spartaaa</name>
 
 	<description>
-		A sample PhoneGap application built to demo PhoneGap Build and the PhoneGap cloud debugger.
+		A sample PhoneGap application built to demo PhoneGap Build and the Mobile Boilerplate Spartaaa.
 	</description>
 
-	<author href="http://matthewriley.us">
-		Matthew Riley
+	<author href="#">
+		smonev
 	</author>
 
 	<gap:platforms>
@@ -23,7 +23,6 @@
 
 	<icon src="icon.png" gap:role="default" />
 
-	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
 
 </widget>
